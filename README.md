@@ -1,6 +1,6 @@
 -  Hey, Luc here
 -  I’m currently learning web development
--  I've Bachelor's Degree in Engineering from LPU
+-  I've Bachelor's Degree in Engineering
 -  Reach me at twitter - https://twitter.com/Ujjw4lSingh
 
 <!---
