@@ -1,6 +1,6 @@
 <h3 align="center">Innovative and deadline-driven Web Developer with almost an year of experience in designing and developing websites.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=lucverse&label=Profile%20views&color=0e75b6&style=flat" alt="lucverse" /> </p>
+
 
 
 - 🔭 I’m currently working on [Dineout clone app](https://github.com/Abhinavsinha18/DineoutClone)
