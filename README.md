@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Full stack Web Development**
 
-- 👨‍💻 All of my projects are available at [https://lucverse.github.io/](lucverse.github.io/)
+- 👨‍💻 All of my projects are available at [Lucverse](https://lucverse.github.io/)
 
 - 📫 How to reach me **ujjw4l.singh@gmail.com**
 
