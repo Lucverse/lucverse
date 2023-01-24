@@ -3,13 +3,13 @@
 
 
 
-- 🔭 I’m currently working on [Dineout clone app](https://github.com/Abhinavsinha18/DineoutClone)
+- 🔭 Currently working on [Dineout clone app](https://github.com/Abhinavsinha18/DineoutClone)
 
-- 🌱 I’m currently learning **Full stack Web Development**
+- 🌱 Learning **Full stack Web Development** at **Masai School**
 
-- 👨‍💻 All of my projects are available at [Lucverse](https://lucverse.github.io/)
+- 👨‍💻 My projects are available at [Lucverse](https://lucverse.github.io/)
 
-- 📫 How to reach me **ujjw4l.singh@gmail.com**
+- 📫 Reach me at **ujjw4l.singh@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
