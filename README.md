@@ -3,7 +3,7 @@
 
 
 
--  Currently working on [Dineout clone app](https://github.com/Abhinavsinha18/DineoutClone)
+-  Currently working on [Restaurant Management App](https://github.com/Lucverse/restaurant-management-app)
 
 -  Learning **Full stack Web Development** at **Masai School**
 
