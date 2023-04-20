@@ -1,4 +1,4 @@
-<h3 align="center">Innovative and deadline-driven Web Developer with an year of experience in designing and developing websites.</h3>
+<h3 align="center">As someone who is more inclined towards observation and listening, I believe that being an introvert provides unique opportunities to explore and acquire knowledge across multiple domains. While I don't necessarily identify myself as an introvert, I find great value in actively seeking out the knowledge and insights of others, and am always open to sharing my own perspectives and attitudes when given the chance.</h3>
 
 
 
