@@ -1,4 +1,6 @@
-<h3 align="center">As someone who is more inclined towards observation and listening, I believe that being an introvert provides unique opportunities to explore and acquire knowledge across multiple domains. While I don't necessarily identify myself as an introvert, I find great value in actively seeking out the knowledge and insights of others, and am always open to sharing my own perspectives and attitudes when given the chance.</h3>
+<h3 align="left">Hi there 👋, I'm Ujjawal Singh </h3>
+Full Stack Web Developer
+<p> I am a passionate full stack web developer who is eager to learn and grow in this field. I am proficient in various web technologies such as HTML, CSS, JavaScript, Node.js, and React, and have experience building responsive and interactive web applications. My aim is to leverage my skills and knowledge to create innovative and intuitive web experiences that solve real-world problems. Feel free to explore my repositories to see some of the projects I have worked on.</p>
 
 
 
