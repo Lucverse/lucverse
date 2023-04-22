@@ -1,6 +1,5 @@
 <h3 align="left">Hi there 👋, I'm Ujjawal Singh </h3>
 
--  Full Stack Web Developer
 -  Currently working on [Restaurant Management App](https://github.com/Lucverse/restaurant-management-app)
 
 -  Learning **Full stack Web Development** at **Masai School**
