@@ -1,4 +1,4 @@
-<h3 align="left">Hi there 👋, I'm Ujjawal Singh </h3>
+<h3 align="left">Hi there, I'm Ujjawal Singh </h3>
 
 -  Currently working on [Restaurant Management App](https://github.com/Lucverse/restaurant-management-app)
 
