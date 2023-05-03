@@ -29,4 +29,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=lucverse&theme=transparent&show_icons=true" alt="lucverse" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lucverse&" alt="lucverse" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lucverse&theme=transparent" alt="lucverse" /></p>
