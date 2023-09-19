@@ -2,7 +2,7 @@
 
 -  Currently working on [Restaurant Management App](https://github.com/Lucverse/restaurant-management-app)
 
--  Learning **Full stack Web Development** at **Masai School**
+-  **Software Engineer** at **The Yarn Bazaar**
 
 -  My projects are available at [Lucverse](https://lucverse.github.io/)
 
