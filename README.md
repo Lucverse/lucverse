@@ -1,12 +1,6 @@
 <h3 align="left">Hi there, I'm Ujjawal Singh </h3>
 
--  Currently working on [Restaurant Management App](https://github.com/Lucverse/restaurant-management-app)
-
 -  **Software Engineer** at **The Yarn Bazaar**
-
--  My projects are available at [Lucverse](https://lucverse.github.io/)
-
--  Reach me at **ujjw4l.singh@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
