@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Ujjawal</h1>
-<h3 align="center">Software Developer at The Yarn Bazaar</h3>
+<h3 align="center">Full-stack Web Developer</h3>
 
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
