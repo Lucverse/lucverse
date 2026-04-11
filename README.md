@@ -1,11 +1,11 @@
 <h1 align="center">Hi, I'm Ujjawal</h1>
 <h3 align="center">Full-stack Web Developer</h3>
 
-<p align="center">
+<!-- <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
     <img src="https://github-profile-trophy.vercel.app/?username=lucverse&theme=onedark" alt="lucverse" />
   </a>
-</p>
+</p> -->
 
 ---
 
